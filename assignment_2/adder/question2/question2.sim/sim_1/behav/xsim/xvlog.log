@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_16_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_16_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_4_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_16_to_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_16_to_1_tb

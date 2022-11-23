@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/ACA/assignment_2/adder/question2/question2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_16_to_1.v,1669195254,verilog,,D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_4_to_1.v,,mux_16_to_1,,,,,,,,
+D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_16_to_1_tb.v,1669196232,verilog,,,,mux_16_to_1_tb,,,,,,,,
+D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_4_to_1.v,1669194053,verilog,,D:/ACA/assignment_2/adder/question2/question2.srcs/sources_1/new/mux_16_to_1_tb.v,,mux_4_to_1,,,,,,,,
